@@ -1,0 +1,122 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-highlight{
+    color: orange;
+}
+.link-buttom{
+    text-decoration: none;
+    border-radius: 7%;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    font-weight: bold;
+    color: white;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 5%;
+}
+.center{
+    text-align: center;
+    padding-top: 5%;
+}
+.working-project{
+    background-color: #E9E9E9;
+    margin-bottom: 5%;
+    
+}
+.half-width3{
+    float: left;
+    width: 30%;
+    margin-left: 0%;
+    padding-top: 3%;
+    
+   
+}
+#width3{
+    padding-left: 10%;
+}
+.half-width3 img{
+    width: 80%;
+    
+}
+
+.work-in{
+   
+   background-image: url(images/bg.png);
+   background-size: 800px 150px;
+   background-position: center;
+   background-repeat: no-repeat;
+   padding-bottom: 5%;
+   height: 100px;
+   width: 100%;
+  
+   
+}
+
+.half-width2{
+   float: left;
+   margin-left: 22%;
+   padding-right: 10%;
+   height: 60%;
+   padding-top: 4%;
+}
+.about{
+    text-align: center;
+    padding-bottom: 2%;
+}
+#stay{
+    text-decoration: none;
+    color: cadetblue;
+    font-size: 24px;
+}
+.icon{
+    float: left;
+    margin-left: 1%;
+    padding-left: 5px;
+
+}
+.icon img{
+    height: 30px;
+    width: 30px;
+    
+}
+#icon-id{
+    margin-left: 45%;
+}
+h4{
+    font-weight: bold;
+    color: darkgrey;
+    font-size: 26px;
+}
+#about-sc{
+    height: fit-content;
+}
+.navigation-sc{
+    height: 50px;
+    padding-top: 2%;
+}
+.navigation{
+    float: left;
+    padding-left: 20px;
+    color: darkslategrey;
+
+}
+#navigation-id{
+    padding-left: 60%;
+}
+a{
+    text-decoration: none;
+}
